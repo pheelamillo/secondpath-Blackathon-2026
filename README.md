@@ -6,6 +6,11 @@ SecondPath is an AI-powered expungement guidance platform that helps people navi
 
 🔗 **Live Demo:** [secondpath-beta.vercel.app](https://secondpath-beta.vercel.app)
 
+<img width="675" height="704" alt="image" src="https://github.com/user-attachments/assets/cd0860f0-a895-4ce9-8409-ed4eaf87400a" />
+<img width="675" height="704" alt="image" src="https://github.com/user-attachments/assets/4838f95a-0171-48bb-929d-f7a527642284" />
+<img width="675" height="704" alt="image" src="https://github.com/user-attachments/assets/cf0dc840-c518-4d9c-a733-c58374d68fa7" />
+<img width="675" height="704" alt="image" src="https://github.com/user-attachments/assets/52638910-615f-418e-8e9d-a8e8093f19ee" />
+
 ---
 
 ## The Problem
