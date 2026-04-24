@@ -1,0 +1,12 @@
+[
+  { "company": "Concentrix", "remote": true, "industry": "Customer Support", "note": "Fair chance hiring policy" },
+  { "company": "Amazon", "remote": false, "industry": "Warehouse & Logistics", "note": "Case-by-case review" },
+  { "company": "Grubhub", "remote": false, "industry": "Delivery", "note": "Background check after offer" },
+  { "company": "Dave's Hot Chicken", "remote": false, "industry": "Food Service", "note": "Ban the box employer" },
+  { "company": "Televerde", "remote": true, "industry": "Sales & Marketing", "note": "Specifically hires justice-impacted" },
+  { "company": "Honest Jobs", "remote": true, "industry": "Job Platform", "note": "Dedicated fair-chance job board" },
+  { "company": "PRIDE Industries", "remote": false, "industry": "Manufacturing", "note": "Mission-driven, inclusive hiring" },
+  { "company": "JP Morgan Chase", "remote": false, "industry": "Finance", "note": "Fair chance pledge signatory" },
+  { "company": "McDonald's", "remote": false, "industry": "Food Service", "note": "Local franchises often fair chance" },
+  { "company": "Lyft", "remote": false, "industry": "Rideshare", "note": "Driving roles, background review" }
+]

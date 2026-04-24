@@ -1,0 +1,166 @@
+[
+  {
+    "state": "Georgia",
+    "stateCode": "GA",
+    "county": "Fulton",
+    "offenseType": "Misdemeanor",
+    "waitYears": 4,
+    "eligible": true,
+    "process": "Record Restriction (Sealing)",
+    "nextSteps": [
+      "Obtain certified copy of your criminal record from Fulton County Superior Court",
+      "Complete Petition for Record Restriction (Form RC-1)",
+      "File petition at Fulton County Courthouse, 136 Pryor St SW, Atlanta",
+      "Pay filing fee (~$25–$75 — fee waiver available)",
+      "Attend hearing if scheduled (typically 30–60 days)",
+      "Await order from judge — processing takes 60–90 days total"
+    ],
+    "courtAddress": "136 Pryor St SW, Atlanta, GA 30303",
+    "courtPhone": "(404) 612-4700",
+    "fee": "$25–$75",
+    "timeline": "60–90 days"
+  },
+  {
+    "state": "Georgia",
+    "stateCode": "GA",
+    "county": "Fulton",
+    "offenseType": "Non-Violent Felony",
+    "waitYears": 5,
+    "eligible": true,
+    "process": "Record Restriction (Sealing)",
+    "nextSteps": [
+      "Obtain certified copy of criminal record from Fulton County Superior Court",
+      "Verify offense is on Georgia's restricted felony list (O.C.G.A. § 35-3-37)",
+      "Complete Petition for Record Restriction (Form RC-1)",
+      "File petition at Fulton County Courthouse with supporting documents",
+      "Pay filing fee and serve DA's office",
+      "Attend mandatory hearing — DA may object within 30 days"
+    ],
+    "courtAddress": "136 Pryor St SW, Atlanta, GA 30303",
+    "courtPhone": "(404) 612-4700",
+    "fee": "$75–$150",
+    "timeline": "90–120 days"
+  },
+  {
+    "state": "California",
+    "stateCode": "CA",
+    "county": "Los Angeles",
+    "offenseType": "Misdemeanor",
+    "waitYears": 1,
+    "eligible": true,
+    "process": "Dismissal (PC 1203.4)",
+    "nextSteps": [
+      "Obtain your case number from LACourtConnect or in person at court",
+      "Complete Form CR-180 (Petition for Dismissal)",
+      "File at the courthouse where you were convicted",
+      "No filing fee for most misdemeanors",
+      "Judge reviews petition — typically granted within 30 days",
+      "Receive signed order and keep certified copies"
+    ],
+    "courtAddress": "111 N Hill St, Los Angeles, CA 90012",
+    "courtPhone": "(213) 830-0803",
+    "fee": "Free for most",
+    "timeline": "30–45 days"
+  },
+  {
+    "state": "California",
+    "stateCode": "CA",
+    "county": "Los Angeles",
+    "offenseType": "Non-Violent Felony",
+    "waitYears": 3,
+    "eligible": true,
+    "process": "Reduction + Dismissal (PC 17b + 1203.4)",
+    "nextSteps": [
+      "Verify felony is reducible to misdemeanor under PC 17(b)",
+      "File Motion to Reduce Felony to Misdemeanor (Form CR-180)",
+      "After reduction granted, file Petition for Dismissal (PC 1203.4)",
+      "Attend hearing — DA typically does not oppose non-violent cases",
+      "Receive final dismissal order within 60–90 days"
+    ],
+    "courtAddress": "111 N Hill St, Los Angeles, CA 90012",
+    "courtPhone": "(213) 830-0803",
+    "fee": "$0–$100",
+    "timeline": "60–90 days"
+  },
+  {
+    "state": "Texas",
+    "stateCode": "TX",
+    "county": "Harris",
+    "offenseType": "Misdemeanor",
+    "waitYears": 2,
+    "eligible": true,
+    "process": "Expunction or Order of Nondisclosure",
+    "nextSteps": [
+      "Determine eligibility: Expunction (dismissed) vs. Nondisclosure (completed probation)",
+      "Request criminal history from Texas DPS (txdps.state.tx.us)",
+      "Complete Petition for Order of Nondisclosure (Harris County form)",
+      "File at Harris County District Clerk, 201 Caroline St, Houston",
+      "Pay filing fee (~$300 for nondisclosure, $350 for expunction)",
+      "Serve all law enforcement agencies — court schedules hearing in 45–60 days"
+    ],
+    "courtAddress": "201 Caroline St, Houston, TX 77002",
+    "courtPhone": "(713) 755-6421",
+    "fee": "$300–$350",
+    "timeline": "60–90 days"
+  },
+  {
+    "state": "Texas",
+    "stateCode": "TX",
+    "county": "Harris",
+    "offenseType": "Non-Violent Felony",
+    "waitYears": 5,
+    "eligible": false,
+    "process": "Limited Options",
+    "nextSteps": [
+      "Texas does not allow expungement of most felony convictions",
+      "Contact Texas Board of Pardons and Paroles for clemency application",
+      "Consider Certificate of Relief application for employment barriers",
+      "Speak with a legal aid attorney — some specific felonies qualify for nondisclosure"
+    ],
+    "courtAddress": "201 Caroline St, Houston, TX 77002",
+    "courtPhone": "(713) 755-6421",
+    "fee": "Varies",
+    "timeline": "6–18 months (clemency)"
+  },
+  {
+    "state": "New York",
+    "stateCode": "NY",
+    "county": "New York",
+    "offenseType": "Misdemeanor",
+    "waitYears": 3,
+    "eligible": true,
+    "process": "Sealing (CPL § 160.59)",
+    "nextSteps": [
+      "Obtain Certificate of Disposition from the court where convicted",
+      "Complete CPL § 160.59 Sealing Application",
+      "Submit to court with supporting documents and $100 fee",
+      "DA's office has 45 days to object",
+      "Judge may schedule hearing or grant without hearing",
+      "Sealed records remain visible to law enforcement only"
+    ],
+    "courtAddress": "100 Centre St, New York, NY 10013",
+    "courtPhone": "(646) 386-3800",
+    "fee": "$100",
+    "timeline": "90–180 days"
+  },
+  {
+    "state": "Florida",
+    "stateCode": "FL",
+    "county": "Miami-Dade",
+    "offenseType": "Misdemeanor",
+    "waitYears": 10,
+    "eligible": true,
+    "process": "Sealing or Expungement",
+    "nextSteps": [
+      "Request Certificate of Eligibility from Florida Dept. of Law Enforcement (fdle.state.fl.us)",
+      "Complete Petition to Seal/Expunge Criminal Record",
+      "File at Miami-Dade Circuit Court with $75 FDLE fee + court filing fee",
+      "State Attorney's Office reviews and may object within 30 days",
+      "Attend hearing if required — decision in 30–60 days after"
+    ],
+    "courtAddress": "73 W Flagler St, Miami, FL 33130",
+    "courtPhone": "(305) 275-1155",
+    "fee": "$75 + court fees",
+    "timeline": "90–120 days"
+  }
+]

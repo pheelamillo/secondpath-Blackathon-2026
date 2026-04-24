@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 108" fill="none">
+
+  <!-- ══ MARK: Two diagonal stripes = two paths ══ -->
+
+  <!-- Bar 1 · Oxford Blue · the first path -->
+  <line x1="10" y1="100" x2="44" y2="13"
+        stroke="#0E1A2D" stroke-width="18" stroke-linecap="round"/>
+
+  <!-- Bar 2 · Charcoal · the second path (offset right) -->
+  <line x1="33" y1="100" x2="67" y2="13"
+        stroke="#2C3E50" stroke-width="18" stroke-linecap="round"/>
+
+  <!--
+    Bar 2 direction: (67-33, 13-100) = (34, -87)
+    magnitude ≈ 93.4 · unit ≈ (0.364, -0.931)
+    visual tip (+ 9px cap): (67 + 0.364×9, 13 − 0.931×9) = (70.3, 4.6)
+
+    Arrowhead · tip: (71, 4)
+    back 17px:  (71 − 0.364×17, 4 + 0.931×17) = (64.8, 19.8) ≈ (65, 20)
+    perp dir:   (0.931, 0.364)
+    left base:  (65 + 0.931×9, 20 + 0.364×9) = (73.4, 23.3) ≈ (73, 23)
+    right base: (65 − 0.931×9, 20 − 0.364×9) = (56.6, 16.7) ≈ (57, 17)
+  -->
+  <polygon points="71,4 73,23 57,17" fill="#C0392B"/>
+
+  <!-- Accent dot · Persian Red · midpoint between bars -->
+  <circle cx="38" cy="57" r="4.5" fill="#C0392B"/>
+
+  <!-- ══ WORDMARK ══ -->
+  <text y="71"
+        font-family="Inter, 'Helvetica Neue', Arial, sans-serif"
+        font-weight="800"
+        font-size="39"
+        letter-spacing="-1">
+    <tspan x="92" fill="#2C3E50">SECOND</tspan><tspan fill="#C0392B">PATH</tspan>
+  </text>
+
+  <!-- ══ TAGLINE ══ -->
+  <text x="93" y="90"
+        font-family="Inter, 'Helvetica Neue', Arial, sans-serif"
+        font-weight="400"
+        font-size="12"
+        fill="#4D4D4D"
+        letter-spacing="0.3">
+    Restoring Dignity Through Economic Mobility
+  </text>
+
+</svg>

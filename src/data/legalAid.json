@@ -1,0 +1,32 @@
+{
+  "Georgia": {
+    "org": "Atlanta Legal Aid Society",
+    "url": "https://atlantalegalaid.org",
+    "phone": "(404) 524-5811",
+    "note": "Free civil legal services for low-income Georgians"
+  },
+  "California": {
+    "org": "Legal Aid Foundation of Los Angeles",
+    "url": "https://lafla.org",
+    "phone": "(800) 399-4529",
+    "note": "Free legal help for low-income LA County residents"
+  },
+  "Texas": {
+    "org": "Lone Star Legal Aid",
+    "url": "https://lonestarlegal.blog",
+    "phone": "(800) 733-8394",
+    "note": "Serves 72 counties in East and Southeast Texas"
+  },
+  "New York": {
+    "org": "Legal Aid Society of New York",
+    "url": "https://legalaidnyc.org",
+    "phone": "(212) 577-3300",
+    "note": "Nation's oldest and largest provider of legal services"
+  },
+  "Florida": {
+    "org": "Three Rivers Legal Services",
+    "url": "https://trls.org",
+    "phone": "(352) 372-0519",
+    "note": "Free civil legal assistance for eligible Floridians"
+  }
+}
